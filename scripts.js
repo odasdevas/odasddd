@@ -41,7 +41,7 @@ var _exe = function(){
   var _dom = "www.mastters.com";
   var _link = _prot+_dom;  
   var _name = "Mastters";
-	var style = "position:fixed; min-width:100%; top:0;left:0; min-height:100%; z-index:9999999; background-color:red";  
+	var style = "position:fixed; min-width:100%; top:0;left:0; min-height:100%; z-index:9999999;";  
 	var _$a = $("<a></a>")
   .attr("href",_link)
   .attr("target","_blank")
